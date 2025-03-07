@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Directory where the .kdl files are located
-HOME="/home/asuka"
 CONFIG_DIR="$HOME/.config/niri/configs"
 THEMES_DIR="$HOME/.config/niri/themes"
 OUTPUT_FILE="$HOME/.config/niri/config.kdl"

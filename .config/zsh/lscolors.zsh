@@ -1,3 +1,0 @@
-# Example LS_COLORS customization
-export LS_COLORS="di=35:$LS_COLORS:fi=30:$LS_COLORS:ln=36:$LS_COLORS:pi=34:$LS_COLORS:so=32:$LS_COLORS:bd=34:$LS_COLORS:cd=30:$LS_COLORS:or=31:$LS_COLORS:mi=31:$LS_COLORS"
-

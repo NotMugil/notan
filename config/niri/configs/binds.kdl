@@ -1,10 +1,9 @@
 
 binds {
-    // Mod-Shift-/, which is usually the same as Mod-?,
-    // shows a list of important hotkeys.
+    // Keybinds help menu
     Mod+Shift+Slash { show-hotkey-overlay; }
 
-    // Suggested binds for running programs: terminal, app launcher, screen locker.
+    // Launcher keybinds
     Mod+RETURN { spawn "kitty"; }
     Mod+D { spawn "anyrun"; }
     Mod+E { spawn "thunar"; }
